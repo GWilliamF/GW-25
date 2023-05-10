@@ -622,3 +622,7 @@ header > nav > a:nth-child(3) {
       width: 100%;
     }
   }
+#sect1 {
+    height:100vh;
+    height:100svh;
+}
