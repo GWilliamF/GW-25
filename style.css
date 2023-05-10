@@ -577,6 +577,10 @@ header > nav > a:nth-child(3) {
   }
   
   @media(max-width: 500px) {
+      .lang-blob {
+    height:35px;
+          aspect-ratio:1;
+      }
     .text-container1 {
       margin-left: 3vw;
       padding: 0;
